@@ -15,7 +15,6 @@ public class Main extends Application {
         build(primaryStage);
         primaryStage.show();
     }
-
     String fontFamily;
     String fontWeight;
     String fontStyle;
